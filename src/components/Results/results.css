@@ -1,0 +1,17 @@
+.resultTitleCorrect, .resultTitleWrong {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.tryAgain, .feedback {
+  text-align: center;
+}
+
+.display {
+  text-align: center;
+  font-family: Nurom;
+}
+
+.resultTitleWrong {
+  padding-top: 25px;
+}

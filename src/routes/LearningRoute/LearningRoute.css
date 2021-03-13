@@ -1,0 +1,23 @@
+.word {
+  text-align: center;
+}
+
+.translateTitle {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.learn {
+  background-color: #E2D4B7;
+  margin: 30px;
+}
+
+.score p {
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: Nurom;
+}
+
+.word, .translateTitle, .translatelabel {
+  font-family: Nurom;
+}
